@@ -1,3 +1,4 @@
+#Python Practice
 #Creating a class called "names".
 class names:
   #Creating contructor with an argument "__init__".
